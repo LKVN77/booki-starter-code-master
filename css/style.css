@@ -416,7 +416,7 @@ header {
 
     .hebergements-and-populaires {
         flex-direction: column;
-        gap: 0;
+        gap: 40px;
     }
 
     #hebergements {
